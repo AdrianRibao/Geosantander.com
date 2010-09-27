@@ -12,3 +12,16 @@ div#container,
 div#map {
   height: 100%
 }
+
+div#page {
+  padding: 1em 2%;
+  width: 40%;
+  opacity: 0.8;
+  background: #fff;
+  position: absolute;
+  top: 5%;
+  right: 1%;
+  height: 86%;
+  overflow: auto;
+  font-size: 0.75em;
+}
